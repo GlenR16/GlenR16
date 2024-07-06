@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glen Rodrigues</h1>
 <h3 align="center">A full stack engineer from Mumbai. I enjoy making projects and participating in capture the flag competitions.</h3>
 
-- 🔭 I’m currently looking for a job.
+- 🔭 I’m currently working at Wissen Technology.
 - 👯 I’m looking to collaborate on **any Full Stack AI application**.
 
 <h3 align="left">Connect with me</h3>
